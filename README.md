@@ -1,6 +1,6 @@
 # Apna-work
 my 3rd git repository
 <br>
-Author-Ujjwal Dubey
+Author-Ujjwal Jain
 <br>
 Age-18 years
